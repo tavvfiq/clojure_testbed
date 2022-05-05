@@ -10,4 +10,7 @@ pom.xml.asc
 /.nrepl-port
 /.prepl-port
 .hgignore
-.hg/
+.hg/ls
+
+.clj-kondo
+.lsp
